@@ -1,0 +1,6 @@
+C:\Users\Eugen\source\repos\kostroEugenNumber\kostroEugenNumber\obj\Debug\kostroEugenNumber.csprojAssemblyReference.cache
+C:\Users\Eugen\source\repos\kostroEugenNumber\kostroEugenNumber\bin\Debug\kostroEugenNumber.exe.config
+C:\Users\Eugen\source\repos\kostroEugenNumber\kostroEugenNumber\bin\Debug\kostroEugenNumber.exe
+C:\Users\Eugen\source\repos\kostroEugenNumber\kostroEugenNumber\bin\Debug\kostroEugenNumber.pdb
+C:\Users\Eugen\source\repos\kostroEugenNumber\kostroEugenNumber\obj\Debug\kostroEugenNumber.exe
+C:\Users\Eugen\source\repos\kostroEugenNumber\kostroEugenNumber\obj\Debug\kostroEugenNumber.pdb
